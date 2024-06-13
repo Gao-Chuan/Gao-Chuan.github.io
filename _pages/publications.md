@@ -15,7 +15,7 @@ author_profile: true
   Z. Hu*, J. Ye*, **Y. Zhang**, X. Wang  
   EuroS&P, 2024.
 
-- **Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [pdf](../files/Android_Privacy_Implementation_Problems.pdf)
+- **Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [pdf](../files/Android_Privacy_Implementation_Problems.pdf)  
   **Y. Zhang***, Z. Hu*, X. Wang, Y. Hong, Y. Nan, X. Wang, J. Cheng, L. Xing  
   (* co-first author) USENIX Security, 2024.
 
