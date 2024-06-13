@@ -2,9 +2,12 @@
 main:
   - title: "Selected Publications"
     url: /publications/
+  
   - title: "Teaching"
-    url: /teaching/    
-  -title: "Services"
+    url: /teaching/
+
+  - title: "Services"
     url: /services/
-  - title: "Blog Posts"
+
+  - title: "Blog"
     url: /year-archive/
