@@ -1,7 +1,7 @@
 ---
 title: 'zkSync L3 exploration'
 date: 2022-12-12
-permalink: /posts/2022/12/zksync_l3_exploration/
+permalink: /blog/2022/12/zksync_l3_exploration/
 tags:
   - zkSync
   - Layer 3
