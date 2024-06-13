@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
-
 1. **Demystifying resource management risks in emerging mobile app-in-app ecosystems** [pdf](../files/ccs20-app-in-app.pdf)  
    H. Lu, L. Xing, Y. Xiao, **Y. Zhang**, X. Liao, X. Wang, X. Wang  
    ACM Conference on Computer and Communications Security (CCS), 2020.
