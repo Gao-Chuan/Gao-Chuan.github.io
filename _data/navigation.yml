@@ -12,5 +12,5 @@ main:
   - title: "Blog"
     url: /blog/
 
-  # - title: "Thoughts"
-  #   url: /thoughts/
+  - title: "Thoughts"
+    url: /thoughts/
