@@ -216,13 +216,23 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _thoughts
+  - scope:
+      path: ""
+      type: thoughts
     values:
       layout: single
       author_profile: true
