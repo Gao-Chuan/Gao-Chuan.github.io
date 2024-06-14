@@ -1,6 +1,6 @@
 ---
 title: 'Califonia Trip'
-date: 2032-08-14
+date: 2012-08-14
 permalink: /thoughts/2032/08/blog-post-1/
 tags:
   - cool posts
