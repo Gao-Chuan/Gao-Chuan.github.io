@@ -12,5 +12,5 @@ My current research interests lie in the areas of security and privacy issues in
 - Software Supply Chain Security and Privacy: [[USENIX Security'24]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/Android_Privacy_Implementation_Problems.pdf), [[USENIX Security'23]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/UnionUnderDuress.pdf)
 - Mobile/IoT Security: [[USENIX Security'23]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/nan2023iotprofiler.pdf), [[CCS'21]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/CCS21_DMC.pdf), [[CCS'20]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/ccs20-app-in-app.pdf)
 - System Security: [[Arxiv'24]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/WitheredLeaf.pdf)
-- Cybercrime: [[EuroS&P'24]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/fegen.pdf), 
+- Cybercrime: [[EuroS&P'24]]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/fegen.pdf)
 
