@@ -14,5 +14,5 @@ author_profile: true
 | Co-Instructor       | B546   | MALWARE: THREAT AND DEFENSE   | Fall 2022   |
 | Associate Instructor| B433   | SECURE PROTOCOLS              | Spring 2022 |
 | Associate Instructor| B433   | SECURE PROTOCOLS              | Spring 2021 |
-| Teacher             | B649   | CYBER DEFENSE COMPETITIONS    | Fall 2021   |
+| Instructor          | B649   | CYBER DEFENSE COMPETITIONS    | Fall 2021   |
 | Associate Instructor| B649   | CYBER DEFENSE COMPETITIONS    | Fall 2019   |
