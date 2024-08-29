@@ -16,11 +16,11 @@ author_profile: true
   EuroS&P, 2024.
 
 - **Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [pdf]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/Android_Privacy_Implementation_Problems.pdf)  
-  **Y. Zhang***, Z. Hu*, X. Wang, Y. Hong, Y. Nan, X. Wang, J. Cheng, L. Xing  
+  **Y. Zhang\***, Z. Hu\*, X. Wang, Y. Hong, Y. Nan, X. Wang, J. Cheng, L. Xing  
   (* co-first author) USENIX Security, 2024.
 
 - **WitheredLeaf: Finding Entity-Inconsistency Bugs with LLMs** [pdf]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/WitheredLeaf.pdf)  
-  H. Chen*, **Y. Zhang***, X. Han*, H. Rong, Y. Zhang, T. Mao, H. Zhang, X Wang, L. Xing, X. Chen  
+  H. Chen*, **Y. Zhang\***, X. Han*, H. Rong, Y. Zhang, T. Mao, H. Zhang, X Wang, L. Xing, X. Chen  
   (* co-first author) arxiv, 2024.
 
 - **Union under Duress: Understanding Hazards of Duplicate Resource Mismediation in Android Software Supply Chain** [pdf]({{ site.url }}{{ site.baseurl }}{{ site.paper_baseurl }}/UnionUnderDuress.pdf)  
