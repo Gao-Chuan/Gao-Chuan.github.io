@@ -11,7 +11,7 @@ I will join [SDSU](https://www.sdsu.edu/) as a tenure-track assistant professor 
 
 My current research interests encompass security and privacy concerns within software supply chains, mobile systems, and Internet of Things (IoT) systems. I am committed to identifying novel attack vectors and emerging privacy issues in these domains. My methodology involves the application of reverse engineering, static and dynamic analysis, and formal verification techniques to detect, measure, and mitigate newly identified security and privacy vulnerabilities.
 
-<b><span style="color:red">New PhD student</span></b>: I will admit PhD students who are interested in both systems and AI. 
+<b><span style="color:red">New PhD student:</span></b> I am accepting PhD students with interests in systems security or AI security.
 
 ## Research Areas & Interests:
 
