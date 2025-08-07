@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I will join [SDSU](https://www.sdsu.edu/) as a tenure-track assistant professor in Fall 2025, where I am also a member of the [Cybersecurity Center](https://cyber.sdsu.edu/). 
+I'm an assistant professor in [SDSU](https://www.sdsu.edu/), where I am also a member of the [Cybersecurity Center](https://cyber.sdsu.edu/). 
 
 My current research interests encompass security and privacy concerns within software supply chains, mobile systems, and Internet of Things (IoT) systems. I am committed to identifying novel attack vectors and emerging privacy issues in these domains. My methodology involves the application of reverse engineering, static and dynamic analysis, and formal verification techniques to detect, measure, and mitigate newly identified security and privacy vulnerabilities.
 
-<b><span style="color:red">New PhD student:</span></b> I am accepting PhD students with interests in systems security or AI security.
+<span style="color:red">New PhD student:</span> I am accepting PhD students with interests in systems security or AI security.
 
 ## Research Areas & Interests:
 
