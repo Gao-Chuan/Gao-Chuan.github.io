@@ -12,6 +12,7 @@ I'm an assistant professor in [SDSU](https://www.sdsu.edu/), where I am also a m
 My current research interests encompass security and privacy concerns within software supply chains, mobile systems, and Internet of Things (IoT) systems. I am committed to identifying novel attack vectors and emerging privacy issues in these domains. My methodology involves the application of reverse engineering, static and dynamic analysis, and formal verification techniques to detect, measure, and mitigate newly identified security and privacy vulnerabilities.
 
 <span style="color:red">New PhD student:</span> I am accepting PhD students with interests in systems security or AI security.
+<a href="{{ site.url }}{{ site.baseurl }}{{ site.sdsu_baseurl }}PhD_Recruitment.pdf">See the detailed recruitment flyer here.</a>
 
 ## Research Areas & Interests:
 
