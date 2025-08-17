@@ -21,7 +21,7 @@ My current research interests encompass security and privacy concerns within sof
 
 ## News
 
-- (05/2025) I will join SDSU as a tenure-track assistant professor in fall 2022.
+- (05/2025) I will join SDSU as a tenure-track assistant professor in fall 2025.
 - (01/2025) I will serve as a PC member of SafeThings 2025.
 - (05/2024) One paper on the privacy compliance risks of the software supply chain is accepted to USENIX Security 2024.
 - (01/2024) I will serve as a PC member of SDIoTSec 2024.
