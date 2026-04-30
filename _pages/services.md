@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-**Program Committee:** [SDIoTSec 2024](https://sdiotsec.github.io/), [SafeThings 2024](https://safe-things-2024.github.io/), [SafeThings 2025](https://safethings25.ieee-security.org/#organization)
+**Program Committee:** [SDIoTSec 2024](https://sdiotsec.github.io/), [SDIoTSec 2026](https://sdiotsec.github.io/index.html#organization) [SafeThings 2024](https://safe-things-2024.github.io/), [SafeThings 2025](https://safethings25.ieee-security.org/#organization)
 
 **Sub-reviewer:** PoPETs 2024, IEEE S&P 2022, TDSC 2022, Inscrypt 2022, WiSec 2021, NDSS 2021, CCS 2020, NDSS 2020, IEEE S&P 2020
 
