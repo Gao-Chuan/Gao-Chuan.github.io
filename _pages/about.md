@@ -23,7 +23,7 @@ My current research interests encompass security and privacy concerns within sof
 
 ## News
 
-- (07/2026) I will serve as a PC member of USENIX Security 2027
+- (07/2026) I will serve as a PC member of USENIX Security 2027.
 - (09/2025) Our paper on software security is accepted to ASE 2025.
 - (05/2025) I will join SDSU as a tenure-track assistant professor in fall 2025.
 - (01/2025) I will serve as a PC member of SafeThings 2025.
